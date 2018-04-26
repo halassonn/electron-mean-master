@@ -1,0 +1,21 @@
+{
+  "name": "dioriganda",
+  "version": "1.0.0",
+  "description": "Website PT Bpr Diori Ganda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Halasson Gultom",
+  "license": "MIT"
+}
